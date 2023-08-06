@@ -1,0 +1,7 @@
+2023-08-06 04:52:20.169796 - Initialized conversion of CBT494
+2023-08-06 04:52:20.198415 - Received CBT.V505.FILE494.PDS from FILE494.XMI 
+2023-08-06 04:52:20.201363 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE494.PDS, moved to PDS/$$$#DATE
+2023-08-06 04:52:20.202562 - Found $$NOTE.txt (text/plain) in CBT.V505.FILE494.PDS, moved to PDS/$$NOTE
+2023-08-06 04:52:20.203520 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE494.PDS, moved to PDS/$$NOTE1
+2023-08-06 04:52:20.204550 - Found @FILE494.txt (text/plain) in CBT.V505.FILE494.PDS, moved to PDS/@FILE494
+2023-08-06 04:52:20.205563 - Found IKJEESX9.txt (text/plain) in CBT.V505.FILE494.PDS, moved to PDS/IKJEESX9
