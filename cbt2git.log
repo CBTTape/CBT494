@@ -1,6 +1,6 @@
-2025-04-13 20:10:43.354711 - Received CBT.V508.FILE494.PDS from FILE494.XMI 
-2025-04-13 20:10:43.355394 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE494.PDS, moved to PDS/$$$#DATE
-2025-04-13 20:10:43.355467 - Found $$NOTE.txt (text/plain) in CBT.V508.FILE494.PDS, moved to PDS/$$NOTE
-2025-04-13 20:10:43.355525 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE494.PDS, moved to PDS/$$NOTE1
-2025-04-13 20:10:43.355583 - Found @FILE494.txt (text/plain) in CBT.V508.FILE494.PDS, moved to PDS/@FILE494
-2025-04-13 20:10:43.355637 - Found IKJEESX9.txt (text/plain) in CBT.V508.FILE494.PDS, moved to PDS/IKJEESX9
+2025-04-15 02:56:32.784900 - Received CBT.V508.FILE494.PDS from FILE494.XMI 
+2025-04-15 02:56:32.786054 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE494.PDS, moved to PDS/$$$#DATE
+2025-04-15 02:56:32.786382 - Found $$NOTE.txt (text/plain) in CBT.V508.FILE494.PDS, moved to PDS/$$NOTE
+2025-04-15 02:56:32.786673 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE494.PDS, moved to PDS/$$NOTE1
+2025-04-15 02:56:32.786972 - Found @FILE494.txt (text/plain) in CBT.V508.FILE494.PDS, moved to PDS/@FILE494
+2025-04-15 02:56:32.787277 - Found IKJEESX9.txt (text/plain) in CBT.V508.FILE494.PDS, moved to PDS/IKJEESX9
